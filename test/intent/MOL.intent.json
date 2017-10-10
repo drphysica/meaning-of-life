@@ -1,0 +1,7 @@
+{
+  "utterance": "What is the meaning of life",
+  "intent_type": "MeaningOfLifeIntent",
+  "intent": {
+    "MeaningOfLifeKeyword": "The meaning of life is forty two"
+  }
+}
